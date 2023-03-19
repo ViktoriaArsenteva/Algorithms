@@ -23,7 +23,7 @@ public class Main {
                 try {
                     int value = Integer.parseInt(reader.readLine());
                     tree.add(value);
-                    System.out.println("finish");
+                    System.out.println("Well done");
                 } catch (Exception ignored) {
                     
                 }
